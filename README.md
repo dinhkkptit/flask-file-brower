@@ -75,7 +75,7 @@ python app.py
 Example:
 
 `export FILE_ROOT="/mnt/data" export PORT=8080 python app.py`
-
+```
 ---
 
 ## 🧩 Folder Structure
