@@ -52,6 +52,7 @@ git clone https://github.com/YOURUSERNAME/lightdrive.git
 cd lightdrive
 
 # Create environment
+sudo apt install python3-venv
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
